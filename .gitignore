@@ -1,0 +1,13 @@
+#Ignore the secret keys
+
+.env
+credentials.json
+
+#Ignore Python cache and virtual environments
+
+pycache/
+*.pyc
+venv/
+.idea/
+.vscode/
+.pytest_cache/
